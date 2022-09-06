@@ -1,0 +1,46 @@
+body {
+
+    font-family: 'Edu SA Beginner', cursive;
+    background-color: #2d3238;
+    
+
+}
+
+.navbar {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.containerAwal {
+    position: relative;
+}
+.intro {
+    border-radius: 10px;
+    transition: 0.5s;
+    
+}
+
+
+
+.intro:hover {
+    transition: 0.5s;
+    opacity: 0.6;
+    color: white;
+}
+
+.intro .intro-text {
+    letter-spacing: 2px;
+    padding: 10px;
+}
+
+.intro .intro-text svg {
+  width: 30px;
+  height: 30px;
+  margin: 0px 10px;
+}
+
+.gambar {
+    margin-top: 100px;
+    
+}
+
+
